@@ -1,4 +1,7 @@
 @media screen and (min-width: 61rem) {
+  .layout-region--node-secondary {
+    margin-top: 0.75rem;
+  }
   .layout-region--node-main .layout-region__content,
   .layout-region--node-footer .layout-region__content {
     max-width: 90%;
